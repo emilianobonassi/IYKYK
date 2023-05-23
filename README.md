@@ -6,7 +6,9 @@ Powered by [Sismo](https://www.sismo.io/) and [SumSub](https://sumsub.com/)
 
 ## Architecture
 
-Diagram: TBC
+Diagram:
+
+![diagram](./diagram.png)
 
 Flow:
 
